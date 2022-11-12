@@ -1,0 +1,43 @@
+footer {
+  background:linear-gradient(90deg, rgba(9,36,0,1) 0%, rgba(26,121,9,1) 41%);
+  padding: 100px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 30px;
+  background: -webkit-linear-gradient(#000000,#243D25);
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color:#fff;
+  font-weight: 800;
+  font-style: italic;
+}
+
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p {
+  font-size: 13px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
+.links{
+  color:#fff
+}

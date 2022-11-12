@@ -1,0 +1,20 @@
+.edit button {
+    background: none;
+    color: #ff0000be;
+    font-size: 20px;
+    transition: 0.5s;
+    border: 1px solid rgb(3 0 71 / 9%);
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    
+  }
+  .edit button:hover {
+    cursor: pointer;
+    background-color: #ff0000be;
+    color: #fff;
+  }
+  .edit{
+    margin-left: 320px;
+    margin-top: 10px;
+  }

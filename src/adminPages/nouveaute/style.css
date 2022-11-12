@@ -1,0 +1,14 @@
+#delete{
+    float: right;
+    font-size:25px;
+  }
+  #delete:hover{
+    cursor: pointer;
+  color: #ff0000be;
+  }
+  .linkStyle{
+    color:#ff0000be
+  }
+  .linkStyle:hover{
+    color: #ffff;
+  }

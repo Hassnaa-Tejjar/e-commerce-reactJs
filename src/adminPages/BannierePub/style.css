@@ -1,0 +1,23 @@
+
+
+.add button{
+    display: flex;
+    line-height: 12pt* 2;
+    padding: 10px 35px ;
+    border: 12px;
+    background: #009879;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 16px;
+    transition: .2s all ease-in-out;
+    border-bottom: 2px solid transparent;
+    outline: none;
+    margin-top: 13pt;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+  .add  button:hover{
+    cursor: pointer;
+  background-color:  #000000 ;
+ 
+  }
